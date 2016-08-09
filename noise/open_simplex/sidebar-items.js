@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["open_simplex2","2-dimensional OpenSimplex Noise"],["open_simplex3","3-dimensional OpenSimplex Noise"],["open_simplex4","4-dimensional OpenSimplex Noise"]]});

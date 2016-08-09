@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Instance",""],["PlantView","Graphical representation of a 'base::Plant'"],["Vertex","Vertex type used to render plants/trees."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HexPillar","Represents one pillar of hexgonal shape in the game world."],["PillarSection","Represents one section of a hex pillar."],["Prop","A prop in a hex pillar"]]});

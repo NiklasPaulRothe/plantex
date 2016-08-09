@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Brownian2","A callable struct for applying 2-dimensional fractional Brownian motion."],["Brownian3","A callable struct for applying 3-dimensional fractional Brownian motion."],["Brownian4","A callable struct for applying 4-dimensional fractional Brownian motion."]]});
